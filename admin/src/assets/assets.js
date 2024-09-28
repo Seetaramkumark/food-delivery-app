@@ -18,4 +18,4 @@ export const assets ={
     pp
 }
 
-export const url = 'http://localhost:4000'
+export const url = 'https://food-del-backend-dixa.onrender.com'
