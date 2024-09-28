@@ -6,7 +6,7 @@ import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 import logv from './logv.png'
 import pp from './pp.png'
-
+export const url = 'https://food-del-backend-dixa.onrender.com'
 export const assets ={
     logo,
     add_icon,
@@ -17,5 +17,3 @@ export const assets ={
     logv,
     pp
 }
-
-export const url = 'https://food-del-backend-dixa.onrender.com'
